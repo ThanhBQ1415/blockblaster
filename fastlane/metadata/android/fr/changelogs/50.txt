@@ -1,0 +1,9 @@
+- Version française nouveau
+- Tournez la pièce en la tapotant
+- Nouveau contenu de jeu
+- Option de sons de jeu
+- Les couleurs des pièces ont changé
+- Marqueur de planète fixe
+- Fond de champ étoile
+- Lignes de grille
+- Bonus d'écran vide modifié

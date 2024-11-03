@@ -1,0 +1,4 @@
+- Annulla il pezzo di gioco
+- scambio di dati fisso
+- visualizzazione giornaliera fissa del pianeta
+- gravitazione fissa

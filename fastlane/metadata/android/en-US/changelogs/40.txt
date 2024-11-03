@@ -1,0 +1,5 @@
+- Stone Wars: play against your friends (Multi-player)
+- new block design and dark theme
+- Cleaner Game as a new game type
+- The blue game piece "long corner" doesn't appear that often anymore.
+- Three 3x3 game pieces won't kill you anymore.
